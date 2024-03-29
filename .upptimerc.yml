@@ -14,6 +14,155 @@ sites:
     url: gw.omni.hpcc.jp
     check: "tcp-ping"
     port: 22
+  - name: fern01
+    url: fern01.omni.hpcc.jp
+    check: "tcp-ping"
+    port: 22
+  - name: fern02
+    url: fern02.omni.hpcc.jp
+    check: "tcp-ping"
+    port: 22
+  - name: chris00
+    url: chris00.omni.hpcc.jp
+    check: "tcp-ping"
+    port: 22
+  - name: chris01
+    url: chris01.omni.hpcc.jp
+    check: "tcp-ping"
+    port: 22
+  - name: chris02
+    url: chris02.omni.hpcc.jp
+    check: "tcp-ping"
+    port: 22
+  - name: chris03
+    url: chris03.omni.hpcc.jp
+    check: "tcp-ping"
+    port: 22
+  - name: chris04
+    url: chris04.omni.hpcc.jp
+    check: "tcp-ping"
+    port: 22
+  - name: chris05
+    url: chris05.omni.hpcc.jp
+    check: "tcp-ping"
+    port: 22
+  - name: chris06
+    url: chris06.omni.hpcc.jp
+    check: "tcp-ping"
+    port: 22
+  - name: chris07
+    url: chris07.omni.hpcc.jp
+    check: "tcp-ping"
+    port: 22
+  - name: chris08
+    url: chris08.omni.hpcc.jp
+    check: "tcp-ping"
+    port: 22
+  - name: chris09
+    url: chris09.omni.hpcc.jp
+    check: "tcp-ping"
+    port: 22
+  - name: chris10
+    url: chris10.omni.hpcc.jp
+    check: "tcp-ping"
+    port: 22
+  - name: chris11
+    url: chris11.omni.hpcc.jp
+    check: "tcp-ping"
+    port: 22
+  - name: chris20
+    url: chris20.omni.hpcc.jp
+    check: "tcp-ping"
+    port: 22
+  - name: chris21
+    url: chris21.omni.hpcc.jp
+    check: "tcp-ping"
+    port: 22
+  - name: chris22
+    url: chris22.omni.hpcc.jp
+    check: "tcp-ping"
+    port: 22
+  - name: chris23
+    url: chris23.omni.hpcc.jp
+    check: "tcp-ping"
+    port: 22
+  - name: chris24
+    url: chris24.omni.hpcc.jp
+    check: "tcp-ping"
+    port: 22
+  - name: chris25
+    url: chris25.omni.hpcc.jp
+    check: "tcp-ping"
+    port: 22
+  - name: chris26
+    url: chris26.omni.hpcc.jp
+    check: "tcp-ping"
+    port: 22
+  - name: chris30
+    url: chris30.omni.hpcc.jp
+    check: "tcp-ping"
+    port: 22
+  - name: chris40
+    url: chris40.omni.hpcc.jp
+    check: "tcp-ping"
+    port: 22
+  - name: chris41
+    url: chris41.omni.hpcc.jp
+    check: "tcp-ping"
+    port: 22
+  - name: chris42
+    url: chris42.omni.hpcc.jp
+    check: "tcp-ping"
+    port: 22
+  - name: chris43
+    url: chris43.omni.hpcc.jp
+    check: "tcp-ping"
+    port: 22
+  - name: chris44
+    url: chris44.omni.hpcc.jp
+    check: "tcp-ping"
+    port: 22
+  - name: chris50
+    url: chris50.omni.hpcc.jp
+    check: "tcp-ping"
+    port: 22
+  - name: chris60
+    url: chris60.omni.hpcc.jp
+    check: "tcp-ping"
+    port: 22
+  - name: chris61
+    url: chris61.omni.hpcc.jp
+    check: "tcp-ping"
+    port: 22
+  - name: chris70
+    url: chris70.omni.hpcc.jp
+    check: "tcp-ping"
+    port: 22
+  - name: chris80
+    url: chris80.omni.hpcc.jp
+    check: "tcp-ping"
+    port: 22
+  - name: chris81
+    url: chris81.omni.hpcc.jp
+    check: "tcp-ping"
+    port: 22
+  - name: chris82
+    url: chris82.omni.hpcc.jp
+    check: "tcp-ping"
+    port: 22
+  - name: chris83
+    url: chris83.omni.hpcc.jp
+    check: "tcp-ping"
+    port: 22
+  - name: chris90
+    url: chris90.omni.hpcc.jp
+    check: "tcp-ping"
+    port: 22
+  - name: chris91
+    url: chris91.omni.hpcc.jp
+    check: "tcp-ping"
+    port: 22
+
 
 assignees:
   - onokatio
