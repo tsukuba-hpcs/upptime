@@ -134,10 +134,10 @@ sites:
     url: chris61.omni.hpcc.jp
     check: "tcp-ping"
     port: 22
-  - name: chris70
-    url: chris70.omni.hpcc.jp
-    check: "tcp-ping"
-    port: 22
+  #- name: chris70
+  #  url: chris70.omni.hpcc.jp
+  #  check: "tcp-ping"
+  #  port: 22
   - name: chris80
     url: chris80.omni.hpcc.jp
     check: "tcp-ping"
