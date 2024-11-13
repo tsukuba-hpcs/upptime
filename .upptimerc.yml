@@ -163,14 +163,6 @@ sites:
     check: "tcp-ping"
     port: 22
 
-
-assignees:
-  - onokatio
-  - namachan10777
-  - motorailgun
-  - maetin0324
-  - Kerusu-1984 
-
 status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
